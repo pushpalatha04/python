@@ -1,0 +1,11 @@
+srart = int(input("enter the start of range:"))
+end = int(input("enter the end of range:"))
+#iterating  each number in list
+ for n num in range (start,end+1):
+
+
+#checking condition
+
+if num >= 0:
+
+print (num,end="")
